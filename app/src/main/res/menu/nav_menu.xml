@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_1"
+            android:icon="@drawable/ic_https_black_24dp"
+            android:title="更换密码"/>
+        <item
+            android:id="@+id/nav_2"
+            android:icon="@drawable/ic_archive_black_24dp"
+            android:title="导入密钥"/>
+        <item
+            android:id="@+id/nav_3"
+            android:icon="@drawable/ic_unarchive_black_24dp"
+            android:title="导出密钥"/>
+        <item
+            android:id="@+id/nav_4"
+            android:icon="@drawable/ic_settings_black_24dp"
+            android:title="设置"/>
+        <item
+            android:id="@+id/nav_5"
+            android:icon="@drawable/ic_import_contacts_black_24dp"
+            android:title="开源"/>
+
+
+    </group>
+</menu>
